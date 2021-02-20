@@ -1,0 +1,14 @@
+Name of app - calcutater for legends
+
+Reason for creating this app-it help you to solve sum like 5+5,5-5,2/10,2x5
+
+Components / how to use this app -You can use this app in your phone,laptop,pc and in ipad
+
+Who user of this app -EVERYONE CAN USE IT
+
+As a user, I want to have a number buttons so that I can get B.O.D.M.A.S buttons
+
+As a user, I want to have a input so that I can get output
+
+Wireframe / workflow-
+			
